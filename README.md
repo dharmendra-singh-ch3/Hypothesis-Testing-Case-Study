@@ -31,7 +31,6 @@ The data have the following variables (with data type and explanation of meaning
 
 •	Loan.Purpose – categorical variable. The purpose of the loan as stated by the applicant. 
 
-
 •	Debt.to.Income.Ratio – character. The % of consumer’s gross income going toward paying debts. 
 
 •	State - character. The abbreviation for the U.S. state of residence of the loan applicant. 
@@ -69,6 +68,7 @@ The data set contains the order number, 1 through 12, and the price quotes by Ma
  
  
 BUSINESS PROBLEM-3:
+
 BACKGROUND: The New Life Residential Treatment Facility is a NGO that treats teenagers who have shown signs of mental illness. It provides housing and supervision of teenagers who are making the transition from psychiatric hospitals back into the community. Because many of the teenagers were severely abused as children and have been involved with the juvenile justice system, behavioral problems are common at New Life. Employee pay is low and staff turnover (attrition) is high. 
 
 A reengineering program was instituted at New Life with the goals of lowering behavioral problems of the kids and decreasing employee turnover rates. As a part of this effort, the following changes were made: 
@@ -86,10 +86,10 @@ A reengineering program was instituted at New Life with the goals of lowering be
 
 To determine the effectiveness of the reengineering effort, a data set comprised of pre- and post-reengineering periods was compiled. The information contains two measures of behavioral problems. A critical incident occurs when a resident goes AWOL (leaves the premises without permission), destroys property (e.g., punching a hole in a wall or throwing furniture through windows), is caught in possession of street drugs, or engages in assault against other residents or staff members. A teenager is temporarily removed from the facility when s/he is sent to jail or back to a psychiatric hospital 
  
-#BUSINESS PROBLEM 3: 
+#BUSINESS PROBLEM 
 Determine what effect, if any, the reengineering effort had on the incidence behavioral problems and staff turnover. i.e To determine if the reengineering effort changed the critical incidence rate. Is there evidence that the critical incidence rate improved? 
 
-DATA AVAILABLE:   Price_Quotes.csv 
+DATA AVAILABLE:   Treatment_Facility.csv 
 
 The data set contains 20 months of data; the first 13 months were prior to reengineering. The variables in the data include: 
 
@@ -108,8 +108,11 @@ BACKGROUND: Software development projects typically follow six basic phases: Req
 ApDudes, a developer of applications for tablet computers, was having difficulty meeting project deadlines; only 10% of their projects had been completed within budget and on time last year and that was starting to hurt business. The group’s project manager was tasked with studying problems within the implementation phase. He found that software engineers were having difficulty prioritizing their work, and that they often became overwhelmed by the magnitude of the projects. 
 As a result, two changes were made. Each project was broken down into smaller, distinct tasks, or jobs, and each job was assigned a priority. The project manager believes that this classification and prioritization system would speed the completion of high priority jobs, and thus lower overall project completion time 
 BUSINESS PROBLEM: We will focus on the prioritization system. If the system is working, then high priority jobs, on average, should be completed more quickly than medium priority jobs, and medium priority jobs should be completed more quickly than low priority jobs. Use the data provided to determine whether this is, in fact, occurring. 
+
 DATA AVAILABLE: 
+
 Priority_Assessment.csv 
+
 The data set contains a random sample of 642 jobs completed over the last six months. The variables in the data set are: 
 Days 	The number of days it took to complete the job Priority 	The priority level assigned to that job 
  
@@ -152,7 +155,6 @@ Income The patron’s annual household income: 1 = Less than $50,000; 2 = $50- $
 
 Hear About 	The patron’s response to this question: “How did you hear about Film on the Rocks?” Respondents could check any of the following that applied: 1 = 
 television; 2 = newspaper; 3 = radio; 4 = website; 5 = word of mouth 
-
 
 The survey also contained four Likert-scaled questions about satisfaction; each of the following questions is coded: 1 = Excellent; 2 = Good; 3 = Average/Fair; 4 = Poor; 5 = Very Poor. 
  
