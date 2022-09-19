@@ -1,0 +1,331 @@
+_rowstate_,Movie,Gender,Marital_Status,Sinage,Parking,Clean,Overall,Age,Income,Hear_About
+0,Ferris Buellers Day Off,Female,Married,2,2,2,2,3,1,5
+0,Ferris Buellers Day Off,Female,Single,1,1,1,1,2,1,5
+0,Ferris Buellers Day Off,Male,Married,2,4,3,2,4,1,5
+0,Ferris Buellers Day Off,Female,Married,1,3,2,2,4,1,5
+0,Ferris Buellers Day Off,Female,Married,1,1,1,1,3,3,1
+0,Ferris Buellers Day Off,Female,Married,1,1,1,1,3,3,5
+0,Ferris Buellers Day Off,Male,Married,2,2,2,2,3,3,5
+0,Ferris Buellers Day Off,Female,Single,1,1,3,1,3,,4
+0,Ferris Buellers Day Off,Female,Single,1,1,3,1,3,,4
+0,Ferris Buellers Day Off,Female,Single,2,3,2,2,3,1,4
+0,Ferris Buellers Day Off,Male,Married,2,2,2,2,4,1,1
+0,Ferris Buellers Day Off,Female,Married,2,2,2,2,4,,5
+0,Ferris Buellers Day Off,Female,Single,1,1,1,1,3,1,1
+0,Ferris Buellers Day Off,Male,Single,3,4,2,5,2,2,5
+0,Ferris Buellers Day Off,Male,Single,1,1,1,1,2,1,5
+0,Ferris Buellers Day Off,Female,Slngle,1,2,1,1,2,2,4
+0,Ferris Buellers Day Off,Male,Single,2,2,2,2,2,1,5
+0,Ferris Buellers Day Off,Male,Single,2,1,1,3,2,3,5
+0,Ferris Buellers Day Off,Female,Slngle,1,2,1,2,2,3,5
+0,Ferris Buellers Day Off,Female,Single,3,2,3,1,1,3,5
+0,Ferris Buellers Day Off,Male,Single,2,2,2,2,2,3,1
+0,Ferris Buellers Day Off,Female,Single,2,2,2,2,2,3,1
+0,Ferris Buellers Day Off,Male,Married,1,1,1,1,3,3,5
+0,Ferris Buellers Day Off,Female,Single,1,1,1,1,2,1,2
+0,Ferris Buellers Day Off,Female,Single,1,1,1,1,2,1,5
+0,Ferris Buellers Day Off,Male,Single,2,2,2,2,2,3,3
+0,Ferris Buellers Day Off,Male,Single,2,2,2,2,2,3,3
+0,Ferris Buellers Day Off,Female,Single,1,1,1,1,4,1,4
+0,Ferris Buellers Day Off,Female,Single,1,1,1,1,3,1,"4,5"
+0,Ferris Buellers Day Off,Male,Married,2,3,2,2,3,3,"2,5"
+0,Ferris Buellers Day Off,Female,Married,2,3,3,2,3,2,4
+0,Ferris Buellers Day Off,Male,Married,1,2,2,1,3,2,1
+0,Ferris Buellers Day Off,2,1,2,2,1,1,3,2,1
+0,Ferris Buellers Day Off,2,2,2,2,2,2,2,1,5
+0,Ferris Buellers Day Off,1,2,1,3,1,2,2,2,2
+0,Ferris Buellers Day Off,2,2,2,2,1,1,1,3,5
+0,Ferris Buellers Day Off,1,1,2,2,2,2,2,1,5
+0,Ferris Buellers Day Off,2,2,1,1,1,1,1,3,5
+0,Ferris Buellers Day Off,2,2,2,2,2,2,2,1,5
+0,Ferris Buellers Day Off,1,2,2,2,2,2,2,1,5
+0,Ferris Buellers Day Off,2,1,1,1,1,2,3,2,5
+0,Ferris Buellers Day Off,2,2,2,2,1,2,2,2,5
+0,Ferris Buellers Day Off,2,2,2,2,3,2,2,2,5
+0,Ferris Buellers Day Off,2,2,3,2,2,2,2,1,5
+0,Ferris Buellers Day Off,2,2,2,2,2,2,2,1,5
+0,Ferris Buellers Day Off,1,1,1,2,2,2,2,3,5
+0,Ferris Buellers Day Off,2,1,2,2,2,2,3,3,5
+0,Ferris Buellers Day Off,2,2,2,2,2,1,2,1,5
+0,Ferris Buellers Day Off,2,2,1,2,2,1,2,3,5
+0,Ferris Buellers Day Off,2,2,2,1,1,2,2,3,5
+0,Ferris Buellers Day Off,2,2,1,1,2,1,2,1,5
+0,Ferris Buellers Day Off,1,2,1,1,1,1,2,1,5
+0,Ferris Buellers Day Off,2,2,2,1,1,1,2,3,5
+0,Ferris Buellers Day Off,2,2,2,2,2,2,2,3,5
+0,Ferris Buellers Day Off,2,2,2,1,1,2,2,3,2
+0,Ferris Buellers Day Off,1,2,1,2,2,1,2,3,5
+0,Ferris Buellers Day Off,1,2,2,2,2,2,2,3,5
+0,Ferris Buellers Day Off,2,2,1,1,1,1,2,1,5
+0,Ferris Buellers Day Off,2,2,1,1,1,1,1,1,5
+0,Ferris Buellers Day Off,1,2,2,2,2,2,2,2,5
+0,Ferris Buellers Day Off,2,2,1,2,2,2,1,3,"1,5"
+0,Ferris Buellers Day Off,2,2,1,1,1,1,2,2,5
+0,Ferris Buellers Day Off,2,2,1,1,1,1,2,2,5
+0,Ferris Buellers Day Off,2,2,1,1,1,1,2,1,5
+0,Ferris Buellers Day Off,1,2,2,2,2,2,2,2,5
+0,Ferris Buellers Day Off,1,2,2,2,1,2,2,2,5
+0,Ferris Buellers Day Off,1,2,2,2,1,2,2,2,5
+0,Ferris Buellers Day Off,1,1,2,2,2,1,3,2,5
+0,Ferris Buellers Day Off,1,2,3,1,2,2,2,1,5
+0,Ferris Buellers Day Off,1,2,2,2,2,2,3,2,5
+0,Ferris Buellers Day Off,1,1,2,2,2,2,3,3,5
+0,Ferris Buellers Day Off,2,1,2,2,2,2,3,,5
+0,Ferris Buellers Day Off,1,2,2,2,2,2,1,,5
+0,Ferris Buellers Day Off,1,2,2,2,2,2,1,,5
+0,Ferris Buellers Day Off,1,2,2,2,2,2,2,,5
+0,Ferris Buellers Day Off,1,1,3,2,2,2,3,3,3
+0,Ferris Buellers Day Off,2,1,3,3,3,2,3,3,5
+0,Ferris Buellers Day Off,2,2,1,2,1,2,1,3,5
+0,Ferris Buellers Day Off,1,1,1,1,1,1,2,1,1
+0,Ferris Buellers Day Off,2,1,2,2,2,2,2,1,1
+0,Ferris Buellers Day Off,2,2,1,1,1,1,1,3,5
+0,Ferris Buellers Day Off,1,2,3,2,2,2,3,2,5
+0,Ferris Buellers Day Off,2,2,1,1,1,2,3,1,5
+0,Ferris Buellers Day Off,2,1,1,1,1,1,3,3,5
+0,Ferris Buellers Day Off,2,1,1,1,1,1,3,3,5
+0,Ferris Buellers Day Off,2,1,1,1,1,1,3,2,5
+0,Ferris Buellers Day Off,2,2,2,1,1,2,2,1,5
+0,Ferris Buellers Day Off,1,2,3,1,1,1,3,2,5
+0,Ferris Buellers Day Off,2,1,2,2,2,2,4,2,4
+0,Ferris Buellers Day Off,2,2,2,2,2,2,2,1,4
+0,Ferris Buellers Day Off,2,2,1,2,2,2,2,1,5
+0,Ferris Buellers Day Off,2,2,1,2,2,2,2,2,5
+0,Ferris Buellers Day Off,2,2,3,1,2,2,2,3,5
+0,Ferris Buellers Day Off,2,1,2,2,3,2,3,2,4
+0,Ferris Buellers Day Off,1,2,3,1,1,1,2,1,
+0,Ferris Buellers Day Off,2,2,2,1,1,1,3,1,1
+0,Ferris Buellers Day Off,1,2,1,1,1,1,3,2,4
+0,Ferris Buellers Day Off,2,2,1,2,1,1,3,2,4
+0,Ferris Buellers Day Off,1,2,3,3,3,3,3,2,1
+0,Ferris Buellers Day Off,2,1,1,1,1,1,3,2,4
+0,Ferris Buellers Day Off,2,2,1,1,1,1,2,1,5
+0,Ferris Buellers Day Off,2,2,5,2,2,1,2,2,2
+0,Ferris Buellers Day Off,1,2,3,4,3,3,1,1,5
+0,Ferris Buellers Day Off,1,2,1,1,1,1,3,1,4
+0,Ferris Buellers Day Off,2,1,2,3,2,2,3,2,5
+0,Ferris Buellers Day Off,1,1,2,3,3,2,3,2,5
+0,Ferris Buellers Day Off,2,2,1,2,2,2,3,1,5
+0,Ferris Buellers Day Off,1,2,2,2,2,2,3,1,4
+0,Ferris Buellers Day Off,1,2,1,1,2,1,3,1,5
+0,Ferris Buellers Day Off,2,2,1,4,1,1,2,1,5
+0,Ferris Buellers Day Off,1,2,2,2,4,2,2,1,4
+0,Ferris Buellers Day Off,1,2,1,1,1,1,2,2,5
+0,Ferris Buellers Day Off,2,2,3,4,2,2,2,1,5
+0,Ferris Buellers Day Off,1,1,2,1,1,1,3,3,5
+0,Ferris Buellers Day Off,1,1,2,1,1,1,3,2,5
+0,Ferris Buellers Day Off,2,2,2,2,1,2,3,1,5
+0,Ferris Buellers Day Off,2,2,1,2,1,1,2,1,5
+0,Ferris Buellers Day Off,1,1,2,1,1,1,4,3,3
+0,Ferris Buellers Day Off,2,2,2,1,1,1,2,3,5
+0,Ferris Buellers Day Off,2,2,3,1,3,2,2,1,5
+0,Ferris Buellers Day Off,1,2,2,1,2,2,2,1,5
+0,Ferris Buellers Day Off,2,2,1,2,1,1,2,1,5
+0,Ferris Buellers Day Off,2,1,1,1,1,1,3,2,4
+0,Ferris Buellers Day Off,2,1,1,1,1,1,,2,
+0,Ferris Buellers Day Off,2,1,2,2,2,2,3,2,5
+0,Ferris Buellers Day Off,2,2,3,2,2,2,2,1,5
+0,Ferris Buellers Day Off,2,2,2,2,4,2,2,3,1
+0,Ferris Buellers Day Off,2,2,3,2,2,2,3,2,5
+0,Ferris Buellers Day Off,2,2,2,1,2,1,1,2,5
+0,Ferris Buellers Day Off,2,2,2,2,2,2,3,2,5
+0,Ferris Buellers Day Off,2,2,2,2,1,5,1,1,1
+0,Ferris Buellers Day Off,2,1,3,1,2,1,3,3,5
+0,Ferris Buellers Day Off,2,2,2,3,2,2,2,1,5
+0,Ferris Buellers Day Off,2,2,2,2,1,1,2,1,5
+0,Ferris Buellers Day Off,1,2,1,1,1,1,2,2,5
+0,Ferris Buellers Day Off,1,1,3,3,1,3,2,1,4
+0,Ferris Buellers Day Off,2,1,3,5,2,4,2,1,5
+0,Willy Wonka,1,1,2,2,2,2,3,3,5
+0,Willy Wonka,2,1,2,2,2,2,3,3,
+0,Willy Wonka,1,,2,2,2,1,2,1,5
+0,Willy Wonka,1,2,3,1,1,1,2,2,5
+0,Willy Wonka,1,2,3,1,1,1,2,2,5
+0,Willy Wonka,2,2,2,2,2,2,1,3,4
+0,Willy Wonka,1,1,2,2,2,2,3,3,4
+0,Willy Wonka,2,1,2,2,2,2,3,3,4
+0,Willy Wonka,2,2,2,2,2,2,2,3,5
+0,Willy Wonka,2,2,1,1,2,1,2,3,5
+0,Willy Wonka,2,2,2,2,2,1,2,1,5
+0,Willy Wonka,2,2,1,1,2,1,1,,1
+0,Willy Wonka,2,2,2,2,2,2,2,1,5
+0,Willy Wonka,2,2,3,2,2,1,2,1,4
+0,Willy Wonka,2,1,2,2,2,2,3,3,5
+0,Willy Wonka,2,1,2,3,2,2,3,3,5
+0,Willy Wonka,2,1,2,3,2,2,3,3,5
+0,Willy Wonka,2,2,1,1,1,1,2,1,3
+0,Willy Wonka,1,2,5,2,1,1,2,1,5
+0,Willy Wonka,1,2,3,3,3,3,2,1,5
+0,Willy Wonka,1,2,2,5,1,2,2,1,1
+0,Willy Wonka,2,2,2,3,1,2,2,1,5
+0,Willy Wonka,1,2,5,1,1,2,2,3,4
+0,Willy Wonka,1,2,5,3,1,2,2,1,5
+0,Willy Wonka,2,2,3,3,2,3,2,2,5
+0,Willy Wonka,2,2,3,2,2,2,2,2,5
+0,Willy Wonka,1,2,1,1,1,1,2,2,5
+0,Willy Wonka,2,2,1,1,1,1,1,3,3
+0,Willy Wonka,1,1,1,1,1,1,3,3,3
+0,Willy Wonka,2,1,1,1,1,1,3,3,3
+0,Willy Wonka,2,2,1,1,1,1,1,3,3
+0,Willy Wonka,2,2,3,2,2,3,2,2,5
+0,Willy Wonka,2,1,3,5,1,3,3,2,5
+0,Willy Wonka,1,2,2,2,2,2,2,1,5
+0,Willy Wonka,2,2,2,2,1,1,,2,"3,4"
+0,Willy Wonka,1,2,3,4,5,1,2,1,5
+0,Willy Wonka,2,2,2,1,1,2,2,1,5
+0,Willy Wonka,2,2,1,1,1,1,3,1,
+0,Willy Wonka,1,2,2,3,2,2,1,1,5
+0,Willy Wonka,1,2,1,1,1,1,2,1,5
+0,Willy Wonka,1,2,1,1,1,5,2,,5
+0,Willy Wonka,1,2,3,2,1,2,2,1,5
+0,Willy Wonka,2,2,1,1,1,1,2,1,5
+0,Willy Wonka,2,2,3,3,2,2,2,3,4
+0,Willy Wonka,2,2,1,1,1,1,2,1,5
+0,Willy Wonka,2,2,4,2,1,1,1,2,5
+0,Willy Wonka,2,1,1,1,2,1,1,2,4
+0,Willy Wonka,2,2,1,1,3,1,3,3,2
+0,Willy Wonka,2,2,2,2,2,1,1,,5
+0,Willy Wonka,1,2,1,1,1,1,2,1,5
+0,Willy Wonka,2,2,1,1,1,1,2,2,4
+0,Willy Wonka,2,2,2,2,2,2,2,1,4
+0,Willy Wonka,2,2,3,1,1,1,3,1,5
+0,Willy Wonka,1,1,2,1,1,1,2,2,5
+0,Willy Wonka,2,1,2,1,1,1,3,2,5
+0,Willy Wonka,2,2,4,1,1,2,3,1,4
+0,Willy Wonka,1,1,2,2,2,2,2,3,
+0,Willy Wonka,2,1,1,1,1,2,4,3,1
+0,Willy Wonka,2,2,3,1,,2,4,1,5
+0,Willy Wonka,2,2,1,1,1,1,2,2,5
+0,Willy Wonka,1,2,2,2,2,2,3,1,5
+0,Willy Wonka,2,2,3,2,2,3,3,1,4
+0,Willy Wonka,2,2,4,2,1,2,2,1,5
+0,Willy Wonka,2,2,2,2,2,2,2,1,4
+0,Willy Wonka,2,2,3,,2,2,2,1,5
+0,Willy Wonka,2,1,1,2,2,1,2,3,3
+0,Willy Wonka,1,1,2,2,1,2,3,2,3
+0,Willy Wonka,1,1,2,2,2,2,3,2,4
+0,Willy Wonka,1,1,1,1,1,1,3,,2
+0,Willy Wonka,2,1,2,2,2,2,3,2,4
+0,Willy Wonka,2,1,3,4,2,2,3,2,5
+0,Willy Wonka,2,2,2,2,2,2,3,2,5
+0,Willy Wonka,2,1,2,1,,,2,,1
+0,Willy Wonka,1,1,3,3,2,1,2,2,5
+0,Willy Wonka,2,2,2,2,3,2,2,1,5
+0,Willy Wonka,2,2,1,1,2,2,2,1,5
+0,Willy Wonka,2,2,2,1,1,1,2,1,5
+0,Willy Wonka,2,2,2,2,1,1,2,1,5
+0,Willy Wonka,1,2,1,2,2,2,3,3,4
+0,Willy Wonka,2,2,1,2,1,2,3,3,4
+0,Willy Wonka,2,2,2,1,3,2,3,1,5
+0,Willy Wonka,1,1,1,2,1,1,3,3,5
+0,Willy Wonka,2,1,2,2,2,1,3,2,5
+0,Willy Wonka,1,2,3,2,1,2,2,1,5
+0,Willy Wonka,1,2,2,1,2,1,1,1,5
+0,Willy Wonka,2,2,1,1,2,2,2,1,5
+0,Willy Wonka,2,2,1,1,1,1,2,1,5
+0,Willy Wonka,2,1,2,2,1,2,3,2,5
+0,Willy Wonka,1,2,2,2,1,1,3,2,5
+0,Willy Wonka,2,2,1,1,1,1,3,1,"5,4"
+0,Willy Wonka,2,2,1,2,2,2,1,1,5
+0,Willy Wonka,1,1,1,1,1,1,3,3,5
+0,Willy Wonka,2,2,1,1,1,1,2,1,4
+0,Willy Wonka,2,1,2,2,2,2,3,3,5
+0,Willy Wonka,2,1,2,2,2,2,3,3,5
+0,Willy Wonka,1,1,2,2,2,2,3,3,5
+0,Willy Wonka,2,1,2,2,2,2,3,3,5
+0,Willy Wonka,1,2,1,1,1,1,3,2,"2,5"
+0,Willy Wonka,2,2,3,2,2,2,2,1,4
+0,Willy Wonka,2,2,2,2,2,2,2,1,5
+0,Willy Wonka,2,2,2,2,1,2,3,2,1
+0,Willy Wonka,2,2,2,2,2,2,2,1,5
+0,Willy Wonka,2,2,2,1,2,2,2,2,5
+0,Willy Wonka,2,1,2,1,1,1,3,2,2
+0,Willy Wonka,2,2,2,1,1,1,1,2,2
+0,Willy Wonka,1,2,2,2,2,2,2,3,5
+0,Willy Wonka,2,2,2,2,1,1,2,3,5
+0,Willy Wonka,2,2,2,1,1,1,2,1,4
+0,Willy Wonka,2,2,2,2,2,2,2,1,5
+0,Willy Wonka,2,2,1,1,1,2,3,1,5
+0,Willy Wonka,2,2,1,1,1,2,3,1,5
+0,Willy Wonka,2,2,4,3,2,2,2,1,5
+0,Willy Wonka,1,2,,,,,2,1,
+0,Willy Wonka,2,2,2,2,2,3,2,1,5
+0,Willy Wonka,2,2,2,2,2,2,2,1,5
+0,Willy Wonka,1,2,2,2,3,2,2,3,5
+0,Willy Wonka,1,2,3,2,4,2,2,2,5
+0,Willy Wonka,1,2,3,2,4,2,2,2,5
+0,Willy Wonka,2,2,1,2,2,2,1,1,5
+0,Willy Wonka,2,2,2,2,2,2,2,2,5
+0,Willy Wonka,2,2,2,1,1,1,2,2,5
+0,Willy Wonka,2,1,2,2,2,1,3,3,3
+0,Willy Wonka,2,1,1,1,4,1,3,1,5
+0,Willy Wonka,1,1,1,2,2,1,3,1,5
+0,Willy Wonka,1,1,2,2,2,1,3,3,"3,5"
+0,Willy Wonka,2,1,1,1,1,1,3,1,5
+0,Willy Wonka,2,1,1,1,1,1,3,1,5
+0,Willy Wonka,2,1,2,1,2,1,3,3,
+0,Willy Wonka,1,2,2,1,3,2,2,1,1
+0,Willy Wonka,1,2,2,1,2,3,2,1,1
+0,Willy Wonka,2,2,,1,1,1,3,1,3
+0,Willy Wonka,2,1,1,1,1,1,4,,5
+0,Willy Wonka,2,2,2,2,2,2,3,1,5
+0,Willy Wonka,1,2,2,1,2,1,2,1,4
+0,Willy Wonka,2,1,2,2,3,2,3,2,5
+0,Willy Wonka,2,2,1,1,2,1,3,1,5
+0,Willy Wonka,1,2,2,3,3,3,2,1,4
+0,Willy Wonka,2,2,1,1,1,1,2,1,5
+0,Willy Wonka,2,2,3,3,2,2,2,1,5
+0,Willy Wonka,2,2,2,2,2,2,2,1,5
+0,Willy Wonka,2,2,2,2,2,1,2,2,5
+0,Willy Wonka,2,2,1,1,1,1,2,1,5
+0,Willy Wonka,2,2,3,3,3,1,2,1,4
+0,Willy Wonka,1,2,1,1,1,1,3,3,5
+0,Willy Wonka,2,2,2,2,1,2,2,1,5
+0,Willy Wonka,1,2,2,2,1,2,2,1,5
+0,Willy Wonka,1,2,2,2,2,1,2,1,5
+0,Willy Wonka,1,1,2,2,1,1,2,3,5
+0,Willy Wonka,2,1,2,2,2,2,2,2,5
+0,Willy Wonka,2,2,1,1,1,1,2,2,5
+0,Willy Wonka,2,2,3,3,1,2,2,3,5
+0,Willy Wonka,1,2,2,2,2,2,3,,1
+0,Willy Wonka,2,1,1,1,1,1,3,3,4
+0,Willy Wonka,2,2,2,2,1,2,2,,5
+0,Willy Wonka,2,2,2,2,1,1,2,,5
+0,Willy Wonka,2,2,2,2,2,2,2,1,5
+0,Willy Wonka,1,1,1,1,1,2,3,3,5
+0,Willy Wonka,2,1,1,1,1,2,3,3,5
+0,Willy Wonka,1,2,3,3,2,1,2,1,5
+0,Willy Wonka,2,1,2,2,2,2,3,3,5
+0,Willy Wonka,1,1,2,2,2,2,3,3,5
+0,Old School,2,2,2,2,2,1,3,2,"3,4"
+0,Old School,1,1,1,1,1,1,3,3,5
+0,Old School,2,1,1,1,1,1,3,3,5
+0,Old School,1,2,1,1,1,1,1,3,5
+0,Old School,2,2,5,5,5,5,2,3,5
+0,Old School,1,2,2,1,2,2,2,1,5
+0,Old School,2,2,2,1,2,2,2,1,5
+0,Old School,1,2,2,2,2,1,2,1,5
+0,Old School,1,2,2,1,1,1,2,1,5
+0,Old School,2,1,1,1,1,1,2,1,5
+0,Old School,1,2,4,3,3,2,2,2,2
+0,Old School,2,1,3,3,3,2,3,3,5
+0,Old School,1,2,3,2,2,2,2,1,5
+0,Old School,1,1,1,2,2,1,3,2,5
+0,Old School,2,1,2,2,2,2,3,2,5
+0,Old School,2,2,2,1,2,1,2,3,5
+0,Old School,2,2,2,1,2,1,1,3,5
+0,Old School,2,2,1,1,1,1,2,2,5
+0,Old School,2,2,3,2,2,2,2,3,4
+0,Old School,2,1,4,2,2,1,3,2,5
+0,Old School,2,2,1,1,1,1,3,1,2
+0,Old School,1,2,1,1,1,1,2,1,2
+0,Old School,2,2,3,1,2,1,2,1,5
+0,Old School,2,1,1,1,2,1,3,3,2
+0,Old School,2,2,1,1,1,1,2,1,5
+0,Old School,1,,2,2,2,2,2,3,5
+0,Old School,1,2,2,3,2,1,2,1,5
+0,Old School,2,2,1,2,1,1,2,1,1
+0,Old School,1,1,2,2,2,2,3,3,5
+0,Old School,2,1,2,1,1,2,2,2,5
+0,Old School,1,1,1,1,1,1,2,1,3
+0,Old School,2,2,2,2,3,1,2,1,5
